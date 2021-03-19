@@ -1,7 +1,7 @@
 <?php
 
-$CLIENTID="AvGeynBh7DV9qUe7tSALddUQJKI";
-$CLIENTSECRET="D7nl4eXoi7l8Kv5M_kQm";
+$CLIENTID="<<Identificador que se debe solicitiar a RENIEC>>";
+$CLIENTSECRET="Clave que se debe solicitar a RENIEC";
 
 $PROTOCOL="http";
 
